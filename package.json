@@ -1,0 +1,21 @@
+{
+    "name": "works-in-progress-theme",
+    "displayName": "Works In Progress theme",
+    "description": "Works In Progress theme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Works In Progress",
+                "uiTheme": "vs",
+                "path": "./themes/main.json"
+            }
+        ]
+    }
+}
