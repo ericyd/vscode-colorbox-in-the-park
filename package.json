@@ -1,7 +1,7 @@
 {
-    "name": "works-in-progress-theme",
-    "displayName": "Works In Progress theme",
-    "description": "Works In Progress theme",
+    "name": "colorbox-in-the-park-theme",
+    "displayName": "Colorbox in the Park theme",
+    "description": "Colorbox in the Park theme",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.54.0"
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Works In Progress",
+                "label": "Colorbox in the Park",
                 "uiTheme": "vs",
                 "path": "./themes/main.json"
             }

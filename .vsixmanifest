@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="vscode-works-in-progress" Version="1.0.0" Publisher="ericyd"/>
-    <DisplayName>Works In Progress theme</DisplayName>
+    <Identity Language="en-US" Id="vscode-colorbox-in-the-park" Version="1.0.0" Publisher="ericyd"/>
+    <DisplayName>Colorbox in the Park theme</DisplayName>
     <Description xml:space="preserve">Theme based on worksinprogress.co</Description>
     <Tags>theme,color-theme</Tags>
     <Categories>Themes</Categories>
@@ -14,10 +14,10 @@
       <Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
       <Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
       
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/ericyd/works-in-progress-theme.git" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/ericyd/works-in-progress-theme.git" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/ericyd/vscode-colorbox-in-the-park.git" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/ericyd/vscode-colorbox-in-the-park.git" />
         
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/ericyd/works-in-progress-theme.git" />
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/ericyd/vscode-colorbox-in-the-park.git" />
         
       
       
