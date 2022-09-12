@@ -22,9 +22,9 @@
     "e7edcc": "light green"
   },
   "colors": {
-    "activityBar.activeBackground": "#ab948580",
-    "activityBar.activeBorder": "#2d2828",
-    "activityBar.activeFocusBorder": "#2d2828",
+    "activityBar.activeBackground": "#2d282820",
+    "activityBar.activeBorder": "#615795",
+    "activityBar.activeFocusBorder": "#615795",
     "activityBar.background": "#f4d06f",
     "activityBar.border": "#2d282880",
     "activityBar.dropBackground": "#eee8d5",
