@@ -777,11 +777,19 @@
       "scope": "meta.class punctuation",
       "settings": { "foreground": "#657b83" }
     },
-    { "scope": ["keyword.operator"], "settings": { "foreground": "#a8c26d" } },
+    {
+      "scope": ["keyword.operator"],
+      "settings": { "foreground": "#615795" },
+      "description": "This is used for TS keywords like 'async', 'public', and 'extends'"
+    },
     { "scope": ["keyword"], "settings": { "foreground": "#ac9583" } },
     {
       "scope": ["storage.modifier"],
-      "settings": { "foreground": "#a8c26d", "fontStyle": "italic" }
+      "settings": {
+        "foreground": "#615795",
+        "fontStyle": "italic",
+        "description": "This is used for TS keywords like 'async', 'public', and 'extends'"
+      }
     },
     {
       "scope": ["storage.type"],
