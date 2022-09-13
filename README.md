@@ -22,6 +22,8 @@ Or With Git
 git clone git@github.com:ericyd/vscode-colorbox-in-the-park ~/.vscode/extensions/ericyd.colorbox-in-the-park
 ```
 
+You'll probably need to restart VSCode to see it in your Themes list
+
 # Samples
 
 ## TypeScript
