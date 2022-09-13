@@ -58,7 +58,7 @@ git clone git@github.com:ericyd/vscode-colorbox-in-the-park ~/.vscode/extensions
 
 ## HTML
 
-![HTML sample of Colorbox In The Park theme]()https://res.cloudinary.com/ericyd/image/upload/v1663079344/vscode-colorbox-in-the-park-theme/html_i1ebjl.png
+![HTML sample of Colorbox In The Park theme](https://res.cloudinary.com/ericyd/image/upload/v1663079344/vscode-colorbox-in-the-park-theme/html_i1ebjl.png)
 
 ## XML
 
