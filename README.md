@@ -26,7 +26,7 @@ You'll probably need to restart VSCode to see it in your Themes list
 
 # Screenshots
 
-See [./screenshots.md] for lots of examples
+See [screenshots.md](./screenshots.md) for lots of examples
 
 # Credits
 
