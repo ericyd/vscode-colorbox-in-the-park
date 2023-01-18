@@ -47,6 +47,8 @@
     "editor.findRangeHighlightBackground": "#6c71c433",
     "editor.foreground": "#2d2828",
     "editor.hoverHighlightBackground": "#2aa1981A",
+    "editorInlayHint.background": "#fff7f4",
+    "editorInlayHint.foreground": "#2d282880",
     "editor.inactiveSelectionBackground": "#93a1a126",
     "editor.lineHighlightBackground": "#2d282812",
     "editor.rangeHighlightBackground": "#6c71c41A",
