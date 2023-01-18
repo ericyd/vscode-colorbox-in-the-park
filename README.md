@@ -36,3 +36,4 @@ See [screenshots.md](./screenshots.md) for lots of examples
 - [Works In Progress](https://www.worksinprogress.co/) served as the primary inspiration for the color theme
 - [Atlas](https://github.com/ariga/atlas/) code was used for the Go screenshot
 - [Cloudinary](https://cloudinary.com) for providing a badass free tier CDN
+- [VSCode color API reference](https://code.visualstudio.com/api/references/theme-color)
