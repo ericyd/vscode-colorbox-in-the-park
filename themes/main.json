@@ -119,7 +119,7 @@
     "quickInputList.focusBackground": "#f4d06f80",
     "quickInputList.focusForeground": "#2d2828",
     "quickInputList.focusIconForeground": "#615795bf",
-    "quickInputTitle.background": "#00ff1c",
+    "quickInputTitle.background": "#cee0dc",
     "sash.hoverBorder": "#678893",
     "selection.background": "#CCC4B0",
     "sideBar.background": "#f4d06f40",
