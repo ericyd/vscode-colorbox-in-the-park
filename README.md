@@ -12,17 +12,21 @@ Without Git
 curl -L https://github.com/ericyd/vscode-colorbox-in-the-park/archive/refs/heads/main.zip -o ~/.vscode/extensions/colorbox.zip
 cd ~/.vscode/extensions
 unzip colorbox.zip
-mv vscode-colorbox-in-the-park-main ericyd.colorbox-in-the-park
-rm colorbox.zip
+cd colorbox
+npm ci
+npm run package
 ```
 
 Or With Git
 
 ```shell
-git clone git@github.com:ericyd/vscode-colorbox-in-the-park ~/.vscode/extensions/ericyd.colorbox-in-the-park
+git clone git@github.com:ericyd/vscode-colorbox-in-the-park
+cd vscode-colorbox-in-the-park
+npm ci
+npm run package
 ```
 
-You'll probably need to restart VSCode to see it in your Themes list
+Then [install the extension from VSIX](https://stackoverflow.com/a/50232194)
 
 # Screenshots
 

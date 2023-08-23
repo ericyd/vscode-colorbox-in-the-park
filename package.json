@@ -3,6 +3,7 @@
     "displayName": "Colorbox in the Park theme",
     "description": "Colorbox in the Park theme",
     "version": "1.0.0",
+    "repository": "https://github.com/ericyd/vscode-colorbox-in-the-park",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -17,5 +18,11 @@
                 "path": "./themes/main.json"
             }
         ]
+    },
+    "devDependencies": {
+        "@vscode/vsce": "^2.20.1"
+    },
+    "scripts": {
+        "package": "vsce package --baseContentUrl https://github.com/ericyd/vscode-colorbox-in-the-park"
     }
 }
