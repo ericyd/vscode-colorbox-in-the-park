@@ -20,7 +20,7 @@
         ]
     },
     "devDependencies": {
-        "@vscode/vsce": "^2.20.1"
+        "@vscode/vsce": "^2.32.0"
     },
     "scripts": {
         "package": "vsce package --baseContentUrl https://github.com/ericyd/vscode-colorbox-in-the-park"
