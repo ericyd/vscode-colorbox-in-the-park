@@ -1,0 +1,7 @@
+id = "colorbox-in-the-park"
+name = "Colorbox in the Park"
+version = "0.0.1"
+schema_version = 1
+authors = ["Eric Dauenhauer"]
+description = "Based on https://worksinprogress.co"
+repository = "https://github.com/ericyd/vscode-colorbox-in-the-park"
