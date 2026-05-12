@@ -15,7 +15,7 @@
         "border.disabled": "#d3d3d4ff",
         "elevated_surface.background": "#F4D06FFF",
         "surface.background": "#F4D06FFF",
-        "background": "#CEE0DCFF",
+        "background": "#F7EAC1FF",
         "element.background": "#ebebecff",
         "element.hover": "#dfdfe0ff",
         "element.active": "#B8B2B2FF",
@@ -37,7 +37,7 @@
         "icon.disabled": "#857676FF",
         "icon.placeholder": "#58585aff",
         "icon.accent": "#8979D1FF",
-        "status_bar.background": "#CEE0DCFF",
+        "status_bar.background": "#E7EDCCFF",
         "title_bar.background": "#CEE0DCFF",
         "title_bar.inactive_background": "#ebebecff",
         "toolbar.background": "#FFF7F4FF",
@@ -198,12 +198,12 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#2D282880",
+            "color": "#877878FF",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#2D282880",
+            "color": "#877878FF",
             "font_style": "italic",
             "font_weight": null
           },
@@ -248,9 +248,9 @@
             "font_weight": null
           },
           "keyword": {
-            "color": "#AC9583FF",
+            "color": "#91B5BFFF",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 700
           },
           "label": {
             "color": "#CB4B16FF",
@@ -343,7 +343,7 @@
             "font_weight": null
           },
           "string": {
-            "color": "#5153B1FF",
+            "color": "#2AA198FF",
             "font_style": null,
             "font_weight": null
           },
@@ -383,9 +383,9 @@
             "font_weight": 400
           },
           "type": {
-            "color": "#91B5BFFF",
-            "font_style": null,
-            "font_weight": 700
+            "color": "#615795FF",
+            "font_style": "italic",
+            "font_weight": null
           },
           "variable": {
             "color": "#6A5750FF",
