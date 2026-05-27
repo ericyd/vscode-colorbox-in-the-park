@@ -13,8 +13,8 @@
         "border.selected": "#C9DBE2FF",
         "border.transparent": "#00000000",
         "border.disabled": "#d3d3d4ff",
-        "elevated_surface.background": "#F4D06FFF",
-        "surface.background": "#F4D06FFF",
+        "elevated_surface.background": "#D8E0F0FF",
+        "surface.background": "#D8E0F0FF",
         "background": "#F7EAC1FF",
         "element.background": "#ebebecff",
         "element.hover": "#dfdfe0ff",
@@ -57,9 +57,9 @@
         "editor.foreground": "#2D2828FF",
         "editor.background": "#FFF7F4FF",
         "editor.gutter.background": "#FFF7F4FF",
-        "editor.subheader.background": "#F4D06FFF",
+        "editor.subheader.background": "#D8E0F0FF",
         "editor.active_line.background": "#ebebecbf",
-        "editor.highlighted_line.background": "#F4D06FFF",
+        "editor.highlighted_line.background": "#D8E0F0FF",
         "editor.line_number": "#615795BF",
         "editor.active_line_number": "#44454b",
         "editor.hover_line_number": "#61616b",
@@ -98,10 +98,10 @@
         "terminal.ansi.dim_white": "#A19B90FF",
         "link_text.hover": "#8979D1FF",
         "version_control.added": "#27a657ff",
-        "version_control.modified": "#d3b020ff",
+        "version_control.modified": "#615795FF",
         "version_control.word_added": "#2EA04859",
         "version_control.word_deleted": "#F85149CC",
-        "version_control.deleted": "#e06c76ff",
+        "version_control.deleted": "#E06C76FF",
         "conflict": "#a48819ff",
         "conflict.background": "#faf2e6ff",
         "conflict.border": "#f4e7d1ff",
@@ -405,7 +405,7 @@
         },
         "panel.indent_guide": "#FF000000",
         "panel.indent_guide_hover": "#70707000",
-        "panel.overlay_background": "#F4D06FFF",
+        "panel.overlay_background": "#D8E0F0FF",
         "panel.overlay_hover": "#CEE0DCFF",
         "editor.indent_guide": "#FF000000",
         "minimap.thumb.background": "#383a414c",
@@ -416,5 +416,6 @@
         "version_control.ignored": "#7e8086ff"
       }
     }
-  ]
+  ],
+  "isUserGenerated": true
 }
