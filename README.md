@@ -1,10 +1,12 @@
 # Colorbox in the Park
 
-VSCode theme inspired by the color palette of https://www.worksinprogress.co/
+VSCode and Zed theme inspired by the color palette of https://www.worksinprogress.co/
 
 # Installing
 
-I'm too cheap to publish to the VSCode Marketplace so you have to be janky about it:
+I'm too cheap to publish to the VSCode Marketplace or Zed plugin repository so you have to be janky about it:
+
+### 1. Get the repo
 
 Without Git
 
@@ -12,21 +14,29 @@ Without Git
 curl -L https://github.com/ericyd/vscode-colorbox-in-the-park/archive/refs/heads/main.zip -o ~/.vscode/extensions/colorbox.zip
 cd ~/.vscode/extensions
 unzip colorbox.zip
-cd colorbox
-npm ci
-npm run package
 ```
 
 Or With Git
 
 ```shell
 git clone git@github.com:ericyd/vscode-colorbox-in-the-park
-cd vscode-colorbox-in-the-park
+```
+
+### 2. Install
+
+#### VS Code
+
+```shell
+cd colorbox
 npm ci
 npm run package
 ```
 
 Then [install the extension from VSIX](https://stackoverflow.com/a/50232194)
+
+#### Zed
+
+Command palette (`cmd+P`) and "Install Dev Extension". Select the `zed` directory from the clone repo
 
 # Screenshots
 
